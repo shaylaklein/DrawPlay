@@ -1,3 +1,9 @@
+/**
+ * @author Shayla Klein
+ * @author Connor Brennan 
+ * C11A-1 GIT on GITHub Exercise
+ */
+
 package drawPlay;
 import javax.swing.JPanel;
 import java.awt.*;
